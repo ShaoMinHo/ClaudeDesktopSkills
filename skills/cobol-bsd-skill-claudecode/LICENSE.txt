@@ -1,0 +1,13 @@
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this skill and associated documentation files, to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the skill, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the skill.
+
+THE SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
